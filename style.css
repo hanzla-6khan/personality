@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Poppins:ital,wght@0,100;0,500;1,200&family=Rubik+Maze&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: darkcyan    ;
+    min-height: 50%;
+
+}
+h1{
+    
+font-family: 'Alumni Sans Collegiate One', sans-serif;
+color: black;
+}
+span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: beige;
+}
+input#name {
+    width: 18rem;
+   
+}
+
+
+
+.imge{
+    width: 20rem;
+}
+.imge img{
+    width: 20rem;
+}
